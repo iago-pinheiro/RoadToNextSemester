@@ -1,6 +1,6 @@
 # RoadToNextSemester
 
-Repositório dedicado aos meus estudos, prática diária e preparação para o próximo semestre da faculdade.  
+Repositório dedicado aos meus estudos, prática diária e preparação para o próximo 4º semestre da faculdade.  
 Aqui ficam meus exercícios, mini projetos, testes e experimentos com JavaScript, React e React Native.
 
 ---
