@@ -23,9 +23,9 @@ Criar um histórico real de evolução como desenvolvedor, mantendo consistênci
 
 Cada semana terá sua própria pasta:
 
-/semana-01
-/semana-02
-/semana-03
+- `semana01/`
+- `semana02/`
+- `semana03/`
 ---
 
 Dentro de cada pasta:
