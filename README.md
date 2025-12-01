@@ -22,6 +22,7 @@ Criar um histórico real de evolução como desenvolvedor, mantendo consistênci
 ## 📁 Organização
 
 Cada semana terá sua própria pasta:
+
 /semana-01
 /semana-02
 /semana-03
